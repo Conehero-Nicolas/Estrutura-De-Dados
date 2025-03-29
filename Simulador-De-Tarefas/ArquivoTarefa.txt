@@ -1,0 +1,31 @@
+Critico,10,Corrigir bug de login,Joao Silva,2023-10-26
+Importante,5,Implementar funcionalidade de carrinho,Maria Oliveira,2023-10-27
+Melhoria,2,Refatorar codigo de autenticacao,Ana Santos,2023-10-28
+Critico,15,Corrigir falha de seguranca,Pedro Souza,2023-10-29
+Importante,8,Testar integracao com API de pagamento,Carla Rodrigues,2023-10-30
+Melhoria,3,Otimizar desempenho da pagina inicial,Lucas Pereira,2023-10-31
+Critico,12,Corrigir erro de banco de dados,Mariana Costa,2023-11-01
+Importante,7,Revisar codigo da funcionalidade de busca,Bruno Gomes,2023-11-02
+Melhoria,4,Documentar API de produtos,Isabela Ribeiro,2023-11-03
+Critico,20,Corrigir problema de infraestrutura,Rafael Martins,2023-11-04
+Importante,9,Implementar funcionalidade de favoritos,Juliana Almeida,2023-11-05
+Melhoria,5,Otimizar consultas ao banco de dados,Gustavo Barbosa,2023-11-06
+Critico,18,Corrigir bug de renderizacao,Beatriz Castro,2023-11-07
+Importante,6,Testar funcionalidade de checkout,Leonardo Dias,2023-11-08
+Melhoria,2,Atualizar documentacao de instalacao,Camila Ferreira,2023-11-09
+Critico,11,Corrigir falha na autenticacao,Jose Silva,2023-11-10
+Importante,6,Melhorar a interface de usuario,Patricia Lima,2023-11-11
+Melhoria,3,Refatorar codigo de envio de e-mails,Roberto Oliveira,2023-11-12
+Critico,13,Restaurar backup de dados,Marcelo Santos,2023-11-13
+Importante,7,Integrar novo sistema de pagamento,Simone Costa,2023-11-14
+Melhoria,4,Adicionar logs de erros para monitoramento,Fernando Alves,2023-11-15
+Critico,17,Reparar falha de seguranca no sistema de login,Renata Barbosa,2023-11-16
+Importante,10,Testar integracao de novos modulos,Andre Martins,2023-11-17
+Melhoria,5,Revisar arquitetura de microsservicos,Carla Lima,2023-11-18
+Critico,14,Corrigir vazamento de memoria,Marcos Oliveira,2023-11-19
+Importante,8,Desenvolver novo modulo de pagamentos,Flavia Mendes,2023-11-20
+Melhoria,6,Melhorar estrutura de banco de dados,Gustavo Lima,2023-11-21
+Critico,19,Atualizar sistema de criptografia,Paula Fernandes,2023-11-22
+Importante,12,Implementar sistema de autenticacao multifatorial,Roberto Silva,2023-11-23
+Melhoria,7,Refatorar codigo de upload de arquivos,Mariana Almeida,2023-11-24
+
